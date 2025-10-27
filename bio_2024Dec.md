@@ -6,7 +6,8 @@ Hao Zhang is the founder of Hippocampus Capital Management.
 
 Prior to founding Hippocampus, Hao was at Two Sigma Investments 2007-2024, and as a Managing Director 2015-2024.
 
-Hao has collaborated with peers and supervised teams on wide-ranging areas in Artificial Intelligence and Machine Learning, especially applied to real-world predictive problems. He is honored and proud of having headed teams of professionals that advanced the state of the art of Artificial Intelligence and Machine Learning methods in financial forecasting domain.
+Hao has collaborated with peers and supervised teams on wide-ranging areas in Artificial Intelligence and Machine Learning, especially applied to real-world predictive problems. 
+#He is honored and proud of having headed teams of professionals that advanced the state of the art of Artificial Intelligence and Machine Learning methods in financial forecasting domain.
 
 Hao has a PhD in Computer Science, an MA in Statistics, both from UC Berkeley; a BSc from Caltech. He interned at Credit Suisse, Mitsubishi Electric Research Lab, Oracle Corp, NASA JPL, and consulted for Youdao.com (China).
 
